@@ -16,7 +16,7 @@ namespace Playing.UnitTests
         {
             // Arrange
             var no1 = 4;
-            var no2 = 5;
+            var no2 = 8;
 
             // Act
             var result = _adder.AddNumbers(no1, no2);
