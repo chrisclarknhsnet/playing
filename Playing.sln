@@ -18,8 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{EA16
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{8B732BE6-2EF9-4E8D-9CA4-4E036DC31E1B}"
 	ProjectSection(SolutionItems) = preProject
+		.github\workflows\dotnet-ci.yml = .github\workflows\dotnet-ci.yml
 		.github\workflows\github-actions-demo.old = .github\workflows\github-actions-demo.old
-		.github\workflows\github-sample-ci.yml = .github\workflows\github-sample-ci.yml
 	EndProjectSection
 EndProject
 Global
