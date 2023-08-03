@@ -4,7 +4,7 @@
     {
         public int AddNumbers(int firstNumber, int secondNumber)
         {
-            return firstNumber * secondNumber;
+            return firstNumber + secondNumber;
         }
     }
 }
